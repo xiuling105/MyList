@@ -1,0 +1,3 @@
+module MyList {
+	requires opencsv;
+}
